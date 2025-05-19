@@ -1,2 +1,1 @@
-# genius-homework_2
-Project Beauty Zone
+# genius-homework-2-final
